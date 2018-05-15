@@ -1,2 +1,2 @@
-# BeerAdviser
-From _Head First Android Development_, Chapter 2
+# Android Studio Labs
+Adapted from _Head First Android Development_, 1st Edition
